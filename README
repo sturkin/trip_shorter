@@ -1,0 +1,7 @@
+RUN test:
+```
+php composer.phar test
+
+RUN example:
+```
+php composer.phar example
